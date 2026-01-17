@@ -6,3 +6,40 @@ Purpose:
 - Showcase advanced features for internal review
 - Allow selected developers to contribute without exposing critical logic
 - Test new design patterns and workflows safely
+vantrosa-private-demo/
+
+
+
+
+
+├── LICENSE                # MIT or internal license
+├── README.md
+├── private-architecture/  # Diagrams, mock workflows (non-sensitive details only)
+├── ui-components/         # Advanced front-end mockups
+├── api-structures/        # Example endpoints with mock data
+├── internal-scripts/      # Non-sensitive scripts showcasing workflows
+├── .github/               # Actions for testing, CI/CD
+└── docs/                  # Private documentation
+
+
+
+# VANTROSA Private Demo Projects
+
+## Overview
+This repository contains internal demo projects for VANTROSA, intended only for selected collaborators. Sensitive logic is not included. Use this repository to explore advanced workflows, UI patterns, and architecture examples.
+
+## Contents
+- **private-architecture/**: Advanced architecture diagrams
+- **ui-components/**: Front-end component demos
+- **api-structures/**: Mock API endpoints
+- **internal-scripts/**: Example workflows
+- **docs/**: Private documentation
+
+## Access
+This repository is private. Please contact the VANTROSA core team for access.
+
+## Getting Started
+Clone the repository:
+
+```bash
+git clone git@github.com:aouss01/vantrosa-private-demo.git
