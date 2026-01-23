@@ -49,12 +49,14 @@ cd vantrosa-demo
 npm install
 npm start
 
-
+---
 
 ## Note
 
 This demo contains no production systems, user data, or live services.
 
+ ---
+ 
 ## Documentation
 
 - Platform Overview
@@ -64,6 +66,8 @@ This demo contains no production systems, user data, or live services.
 - Contribution Policy
 - Intellectual Property
 - Development Roadmap
+
+---
 
 ## Strategic Positioning
 
@@ -75,7 +79,11 @@ It is designed as a luxury digital ecosystem prioritizing:
 - Long-term digital legacy
 - Global prestige over scale
 
+---
+
 ## License & Rights
 
 All concepts, designs, and intellectual property related to VANTROSA are protected.  
 Unauthorized replication, distribution, or commercial use is strictly prohibited.
+
+---
