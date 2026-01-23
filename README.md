@@ -50,15 +50,13 @@ npm install
 npm start
 
 ```
-##Note:
+
+## Note
+
+This demo contains no production systems, user data, or live services.
 
 ## Documentation
 
-## Strategic Positioning
-
-## License & Rights
-
-## Documentation
 - Platform Overview
 - Architecture Overview
 - Brand Guidelines
@@ -68,13 +66,16 @@ npm start
 - Development Roadmap
 
 ## Strategic Positioning
-VANTROSA is not positioned as a mass social platform.
+
+VANTROSA is not positioned as a mass social platform.  
 It is designed as a luxury digital ecosystem prioritizing:
+
 - High-value creators
 - Privacy-first infrastructure
 - Long-term digital legacy
 - Global prestige over scale
 
 ## License & Rights
-All concepts, designs, and intellectual property related to VANTROSA are protected.
+
+All concepts, designs, and intellectual property related to VANTROSA are protected.  
 Unauthorized replication, distribution, or commercial use is strictly prohibited.
