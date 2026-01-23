@@ -44,16 +44,14 @@ Visual previews and interaction samples will be added in the `/assets` directory
 
 ## How To Use (Local Demo Only)
 
+```
 git clone https://github.com/aouss01/vantrosa-demo.git
 cd vantrosa-demo
 npm install
 npm start
 
 ```
-## Note:
-## Documentation
-## Strategic Positioning
-## License & Rights
+## Note:, ## Documentation, ## Strategic Positioning, ## License & Rights
 
 ## Documentation
 - Platform Overview
