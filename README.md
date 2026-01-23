@@ -50,9 +50,12 @@ npm install
 npm start
 
 ```
-## Note:
+##Note:
+
 ## Documentation
+
 ## Strategic Positioning
+
 ## License & Rights
 
 ## Documentation
